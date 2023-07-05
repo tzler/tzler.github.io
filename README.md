@@ -5,3 +5,4 @@ A Github Pages template for academic websites. This was forked (then detached) b
 - `images/profile.jpg`
 - `_pages/about.md`
 - `_data/navigation.yml`
+- `_pages/cv.md`
