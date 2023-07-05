@@ -10,7 +10,7 @@ redirect_from:
 
 I am a UC Presidential Postdoctoral Fellow in the Electrical Engineering and Computer Science Department at UC Berkeley. My work seeks to understand neural function within a 'biologically plausible optimization framework,' integrating traditional neuroscientific approaches and deep learning computational methods.  Within the Berkeley AI Research (BAIR) lab my work is advised by Alyosha Efros, Angjoo Kanazawa, and Jitendra Malik. I'm also advised by Charan Ranganath and Randy O'Reilly, within UC Davis' Center for Neuroscience.
 
-I completed my PhD in 2023 at Stanford University, where I was mentored by Drs. Anthony Wagner and Dan Yamins. My work sought to formalize and evaluate theories of medial temporal lobe (MTL) involvement in visual object perception using a combination of neural, behavioral, and computational approaches. Prior to graduate school I conducted neuroscientific research in the department of Brain and Cognitive Science (BCS) at MIT, as well as the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, Germany.
+I completed my PhD in 2023 at Stanford University, where I was mentored by Anthony Wagner and Dan Yamins. My work sought to formalize and evaluate theories of medial temporal lobe (MTL) involvement in visual object perception using a combination of neural, behavioral, and computational approaches. Prior to graduate school I conducted neuroscientific research in the department of Brain and Cognitive Science (BCS) at MIT, as well as the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, Germany.
 
 ## funding 
 
