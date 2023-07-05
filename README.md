@@ -3,6 +3,6 @@ A Github Pages template for academic websites. This was forked (then detached) b
 
 
 ## modified files
-- /_config.yml
-- /images/profile.jpg
-- /_pages/about.md
+- `/_config.yml`
+- `/images/profile.jpg`
+- `/_pages/about.md`
