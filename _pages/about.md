@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Presidential Postdoctoral Fellow in the Electrical Engineering and Computer Science Department at UC Berkeley. My work integrates traditional neuroscientific approaches and deep learning computational frameworks. Within the Berkeley AI Research (BAIR) lab I'm advised by Alyosha Efros, Angjoo Kanazawa, and Jitendra Malik. I'm co-advised by Charan Ranganath and Randy O'Reilly, within UC Davis' Center for Neuroscience.
+I'm a Presidential Postdoctoral Fellow in the Electrical Engineering and Computer Science Department at UC Berkeley. My work integrates traditional neuroscientific approaches and deep learning computational methods. Within the Berkeley AI Research (BAIR) lab I'm advised by [Alyosha Efros](https://www2.eecs.berkeley.edu/Faculty/Homepages/efros.html), [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/), and [Jitendra Malik](https://www2.eecs.berkeley.edu/Faculty/Homepages/malik.html). This work is co-advised by [Charan Ranganath](https://neuroscience.ucdavis.edu/people/charan-ranganath) and [Randy O'Reilly](https://neuroengineering.ucdavis.edu/people/randall-oreilly), within UC Davis' Center for Neuroscience.
 
-I completed my PhD in 2023 at Stanford University, where I was mentored by Anthony Wagner and Dan Yamins. My work sought to formalize and evaluate theories of medial temporal lobe (MTL) involvement in perception using a combination of neural, behavioral, and computational approaches. Prior to graduate school I conducted neuroscientific research in the department of Brain and Cognitive Science (BCS) at MIT, as well as the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, Germany.
+I completed my PhD in 2023 at Stanford University, where I was mentored by [Anthony Wagner](https://profiles.stanford.edu/anthony-wagner) and [Dan Yamins](https://profiles.stanford.edu/daniel-yamins). My work sought to formalize and evaluate theories of medial temporal lobe (MTL) involvement in perception using a combination of neural, behavioral, and computational approaches. Prior to graduate school I conducted neuroscientific research in the department of Brain and Cognitive Science (BCS) at MIT, as well as the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, Germany.
 
 ## funding
 
