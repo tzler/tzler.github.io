@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Presidential Postdoctoral Fellow in the Electrical Engineering and Computer Science Department at UC Berkeley. My work integrates neuroscientific and deep learning methods in order to understand human behavior. In the Berkeley AI Research (BAIR) lab I'm advised by [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/), [Alyosha Efros](https://www2.eecs.berkeley.edu/Faculty/Homepages/efros.html), and [Jitendra Malik](https://www2.eecs.berkeley.edu/Faculty/Homepages/malik.html). My work is co-advised by [Charan Ranganath](https://neuroscience.ucdavis.edu/people/charan-ranganath) and [Randy O'Reilly](https://neuroengineering.ucdavis.edu/people/randall-oreilly), within UC Davis' Center for Neuroscience.
+I'm a Presidential Postdoctoral Fellow in the Electrical Engineering and Computer Science Department at UC Berkeley. In the Berkeley AI Research (BAIR) lab I'm advised by [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/), [Alyosha Efros](https://www2.eecs.berkeley.edu/Faculty/Homepages/efros.html), and [Jitendra Malik](https://www2.eecs.berkeley.edu/Faculty/Homepages/malik.html)--co-advised by [Charan Ranganath](https://neuroscience.ucdavis.edu/people/charan-ranganath) and [Randy O'Reilly](https://neuroengineering.ucdavis.edu/people/randall-oreilly), within UC Davis' Center for Neuroscience. My research integrates neuroscientific and deep learning methods in order to understand human behavior. 
 
 ## training
 
