@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Presidential Postdoctoral Fellow in the Electrical Engineering and Computer Science Department at UC Berkeley. In the Berkeley AI Research (BAIR) lab I'm advised by [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/), [Alyosha Efros](https://www2.eecs.berkeley.edu/Faculty/Homepages/efros.html), and [Jitendra Malik](https://www2.eecs.berkeley.edu/Faculty/Homepages/malik.html)--co-advised by [Charan Ranganath](https://neuroscience.ucdavis.edu/people/charan-ranganath) and [Randy O'Reilly](https://neuroengineering.ucdavis.edu/people/randall-oreilly), within UC Davis' Center for Neuroscience. My research integrates neuroscientific and deep learning methods in order to understand human behavior. 
+I'm a Presidential Postdoctoral Fellow in the Electrical Engineering and Computer Science Department at UC Berkeley. In the Berkeley AI Research (BAIR) lab I'm advised by [Alyosha Efros](https://www2.eecs.berkeley.edu/Faculty/Homepages/efros.html), [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/), and [Jitendra Malik](https://www2.eecs.berkeley.edu/Faculty/Homepages/malik.html). Currently, my work integrates neuroscientific and deep learning methods to develop models able to approximate human abilities, beginning with visual perception.  
 
 ## training
 
@@ -17,3 +17,7 @@ I completed my PhD in 2023 at Stanford University, where I was mentored by [Anth
 ## funding
 
 My scientific research began while I was a student at Miami Dade Community College, with the support of the NSF's Tools for Success program. My PhD was supported by the NSF Graduate Research Fellowship Program (GRFP), alongside several Stanford programs, including Diversifying Academia Recruiting Excellence (DARE), Mind Brain Computational and Technology (MBCT), and NeuroCircles. In addition to the UC Presidential Postdoctoral Fellowship Program, my postdoctoral research is supported by the NIH's F99/K00 Diversity Specialized Predoctoral to Postdoctoral Advancement in Neuroscience (D-SPAN) Award.
+
+## mentoring and collaboration
+
+If you are interested in working together at the intersection of biological and artificial intelligence, feel free to reach out. I especially encourage students from groups underrepresented in cognitive science, neuroscience, or AI to contact me. Mentoring and collaboration is a core part of my scientific practice, and I'm excited to hear from you. 
