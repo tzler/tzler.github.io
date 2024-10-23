@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Presidential Postdoctoral Fellow in the Electrical Engineering and Computer Science Department at UC Berkeley. In the Berkeley AI Research (BAIR) lab I'm advised by [Alyosha Efros](https://www2.eecs.berkeley.edu/Faculty/Homepages/efros.html), [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/), and [Jitendra Malik](https://www2.eecs.berkeley.edu/Faculty/Homepages/malik.html). Currently, my work integrates neuroscientific and deep learning methods to develop models able to approximate human abilities, beginning with visual perception.  
+I'm a Presidential Postdoctoral Fellow in the Electrical Engineering and Computer Science Department at UC Berkeley. In the Berkeley AI Research (BAIR) lab I'm advised by [Alyosha Efros](https://www2.eecs.berkeley.edu/Faculty/Homepages/efros.html), [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/), and [Jitendra Malik](https://www2.eecs.berkeley.edu/Faculty/Homepages/malik.html). 
+
+## research 
+
+My work aims to understand human behavior within a 'biologically plausible optimization framework.' This approach integrates traditional neuroscientific methods with deep learning frameworks from computer science, grounded in a mechanistic understanding of behavior. Concretely, I design computational models to reflect hypotheses around neural function, then evaluate them on their ability to predict experimental data (e.g., behavioral, neural, and lesion evidence). 
 
 ## training
 
