@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Presidential Postdoctoral Fellow in the Electrical Engineering and Computer Science Department at UC Berkeley. In the Berkeley AI Research (BAIR) lab I'm advised by [Alyosha Efros](https://www2.eecs.berkeley.edu/Faculty/Homepages/efros.html), [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/), and [Jitendra Malik](https://www2.eecs.berkeley.edu/Faculty/Homepages/malik.html). 
+I'm a UC Presidential Postdoctoral Fellow in the Electrical Engineering and Computer Science Department at UC Berkeley. In the Berkeley AI Research (BAIR) lab I'm advised by [Alyosha Efros](https://www2.eecs.berkeley.edu/Faculty/Homepages/efros.html), [Angjoo Kanazawa](https://people.eecs.berkeley.edu/~kanazawa/), and [Jitendra Malik](https://www2.eecs.berkeley.edu/Faculty/Homepages/malik.html). 
 
 ## research 
 
-My work aims to understand human behavior within a 'biologically plausible optimization framework.' This approach integrates traditional neuroscientific methods with deep learning frameworks from computer science, grounded in a mechanistic understanding of behavior. Concretely, I design computational models to reflect hypotheses around neural function, then evaluate them on their ability to predict experimental data (e.g., behavioral, neural, and lesion evidence). 
+My research integrates methods from neuroscience, psychology, and computer science to understand the interaction between perception and memory. Experimentally, my work characterizes the mechanistic relationship between behavior (e.g., sequential visual dynamics) and neural function (e.g., medial temporal lobe structures). Computationally, I'm designing deep learning models that reflect the encoding/retrieval dynamics evident in behavioral and neural data. My goal is to develop mechanistic models of human memory that can operate 'at scale'—explaining not only experimental data, but human behavior in real-world settings.  
 
 ## training
 
-I completed my PhD in 2023 at Stanford University, where I was mentored by [Anthony Wagner](https://profiles.stanford.edu/anthony-wagner) and [Dan Yamins](https://profiles.stanford.edu/daniel-yamins). My work sought to formalize and evaluate theories of medial temporal lobe (MTL) involvement in perception using a combination of neural, behavioral, and computational approaches. Prior to graduate school I conducted neuroscientific research in the department of Brain and Cognitive Sciences at MIT, as well as the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, Germany.
+I completed my PhD in 2023 at Stanford University, where I was mentored by [Anthony Wagner](https://profiles.stanford.edu/anthony-wagner) and [Dan Yamins](https://profiles.stanford.edu/daniel-yamins). My work formalized longstanding theories of medial temporal lobe (MTL) involvement in perception using a combination of neural, behavioral, and computational approaches. Prior to graduate school I conducted neuroscientific research in the department of Brain and Cognitive Sciences at MIT, as well as the Max Planck Institute for Human Cognitive and Brain Sciences in Leipzig, Germany.
 
 ## funding
 
