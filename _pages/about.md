@@ -24,4 +24,4 @@ My scientific research began while I was a student at Miami Dade Community Colle
 
 ## mentoring and collaboration
 
-If you are interested in working together at the intersection of biological and artificial intelligence, feel free to reach out. I especially encourage students from groups underrepresented in cognitive science, neuroscience, or AI to contact me. Mentoring and collaboration is a core part of my scientific practice, and I'm excited to hear from you. 
+I'll be starting as an assistant profession in the the departments of Psychology and Computer Science at UPENN in the fall of 2026. If you are interested in working together at the intersection of biological and artificial intelligence, feel free to apply to reach out. I especially encourage students from groups underrepresented in cognitive science, neuroscience, or AI to contact me. Mentoring and collaboration is a core part of my scientific practice, and I'm excited to hear from you. 
